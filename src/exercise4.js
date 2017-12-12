@@ -1,5 +1,13 @@
 exports.run = function(input) {
-  console.log("Exercise #4");
+  if(input===1){
+    return "The value of One is 1"
+  }
+  if(input===2){
+    return "The value of Two  is 2"
+  }
+  if(input===3){
+    return "The value of Three  is 3"
+  }
 
   // YOUR CODE IS WELCOME HERE
 
