@@ -1,3 +1,3 @@
 exports.run = function(input) {
-  console.log("Exercise #5");
+  return(process.argv[0]).length
 };
