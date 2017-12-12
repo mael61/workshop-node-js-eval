@@ -1,3 +1,7 @@
 exports.run = function(input) {
-  console.log("Exercise #3");
+input=input+2
+input=input+5
+input=input+7
+input=input-3
+return input
 };
